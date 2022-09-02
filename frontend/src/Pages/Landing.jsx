@@ -1,5 +1,8 @@
 import styles from "../styles/landing.module.css";
+import Button from "../Components/Button";
 import { useState } from "react";
+import Chatbot from "../Components/Chatbot/Chatbot";
+
 export const Landing = () => {
   const [show, setShow] = useState(false);
   const button = {
@@ -79,7 +82,7 @@ export const Landing = () => {
               right: "250px",
             }}
           >
-           
+            <Chatbot/> 
           </div>
         )}
         <div style={{ position: "relative" }}>
