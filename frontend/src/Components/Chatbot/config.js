@@ -22,10 +22,10 @@ const config = {
   },
   customStyles: {
     botMessageBox: {
-      backgroundColor: "#0892D0",
+      backgroundColor: "gray",
     },
     userMessageBox: {
-      backgroundColor: "#0892D0",
+      backgroundColor: "gray",
     },
     chatButton: {
       backgroundColor: "#0892D0",

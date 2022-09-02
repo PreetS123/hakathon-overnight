@@ -3,7 +3,10 @@
     width: 400px;
 }
 .react-chatbot-kit-chat-inner-container{
-    background-color: aliceblue;
+    background-color: rgb(144, 177, 179);
+    border: 1px solid black;
+    margin-bottom:450px ;
+    height: 400px;
 }
 .react-chatbot-kit-chat-bot-message-container {
     width: 100%;
