@@ -18,7 +18,6 @@ import {
   Image,
 } from "@chakra-ui/react";
 import { MoonIcon, SunIcon } from "@chakra-ui/icons";
-import { SipCalulator } from "./SipCalulator/SipCalulator";
 
 // const NavLink = ({ children }) => (
 //   <Link
@@ -39,7 +38,7 @@ export const Navbar = () => {
   const { isOpen, onOpen, onClose } = useDisclosure();
   return (
     <>
-      <Box bg={useColorModeValue("gray.100", "gray.900")} px={4}>
+      <Box bg={useColorModeValue("orange", "gray.900")} px={4}>
         <Flex h={16} alignItems={"center"} justifyContent={"space-between"}>
           <Box>
             {/* logo */}
