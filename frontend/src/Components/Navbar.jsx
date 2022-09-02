@@ -18,6 +18,7 @@ import {
   Image,
 } from "@chakra-ui/react";
 import { MoonIcon, SunIcon } from "@chakra-ui/icons";
+import { SipCalulator } from "./SipCalulator/SipCalulator";
 
 // const NavLink = ({ children }) => (
 //   <Link
