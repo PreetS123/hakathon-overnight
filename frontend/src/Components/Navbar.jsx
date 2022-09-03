@@ -67,7 +67,7 @@ export const Navbar = () => {
                   <Avatar
                     size={"sm"}
                     src={
-                      "https://media-exp1.licdn.com/dms/image/C5603AQG28Bh3km2p_w/profile-displayphoto-shrink_200_200/0/1602101081141?e=1667433600&v=beta&t=fBBQys5CxWYbyeDgzUEjLWO6iiedxXi8nlcJWPfC3LI"
+                      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUeQS1fuUHvqfGwE95oih1Qp3oMGh9PIQ9nSzk7W0GBfnba1O_5RvyzoMFEDGej2YbPZo&usqp=CAU"
                     }
                   />
                 </MenuButton>
@@ -77,13 +77,13 @@ export const Navbar = () => {
                     <Avatar
                       size={"2xl"}
                       src={
-                        "https://media-exp1.licdn.com/dms/image/C5603AQG28Bh3km2p_w/profile-displayphoto-shrink_200_200/0/1602101081141?e=1667433600&v=beta&t=fBBQys5CxWYbyeDgzUEjLWO6iiedxXi8nlcJWPfC3LI"
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUeQS1fuUHvqfGwE95oih1Qp3oMGh9PIQ9nSzk7W0GBfnba1O_5RvyzoMFEDGej2YbPZo&usqp=CAU"
                       }
                     />
                   </Center>
                   <br />
                   <Center>
-                    <p>Albert Sebastian </p>
+                    <p>Rahul</p>
                   </Center>
                   <br />
                   <MenuDivider />
