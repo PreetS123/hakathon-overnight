@@ -39,7 +39,7 @@ export const Login = () => {
       email,
       password,
     };
-    await fetch("http://localhost:8080/user/login", {
+    await fetch("https://stormy-citadel-82082.herokuapp.com/user/login", {
       method: "POST",
       body: JSON.stringify(payload),
       headers: {

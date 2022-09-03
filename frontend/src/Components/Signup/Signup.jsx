@@ -44,7 +44,7 @@ export const Signup = () => {
       name,
       password,
     };
-    await fetch("http://localhost:8080/user/register", {
+    await fetch("https://stormy-citadel-82082.herokuapp.com/user/register", {
       method: "POST",
       body: JSON.stringify(payload),
       headers: {
